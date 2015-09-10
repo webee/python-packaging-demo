@@ -6,12 +6,16 @@ Changelog
 change logs.
 
 
+0.1.5 (2015-09-11)
+--------------------
+
+-- update docs and some shields.
+
+
 0.1.3/4 (2015-09-10)
 --------------------
 
-oh no.
-^^^^^^
-
+**oh no.**
 -- fix CHANGE_LOG.
 
 

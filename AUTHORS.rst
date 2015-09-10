@@ -1,9 +1,7 @@
 Credits
-=======
+-------
 
-``python_packaging_demo`` is written and maintained by webee.yw.
-
-The development is kindly supported by `webee.yw <https://github.com/webee>`_.
+`python_packaging_demo <https://github.com/webee/python-packaging-demo>`_ is written and maintained by `webee.yw <https://github.com/webee>`_.
 
 Contributors
 ------------

@@ -4,3 +4,4 @@ ipython
 twine
 check-manifest==0.25
 bumpversion==0.5.3
+restview
