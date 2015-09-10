@@ -1,5 +1,5 @@
 # coding=utf-8
-__version__ = "0.1.5"
+__version__ = "0.1.6"
 __author__ = "webee.yw"
 __license__ = "MIT"
 __description__ = "sample python packaging and upload to pypi demo."

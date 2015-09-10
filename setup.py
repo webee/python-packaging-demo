@@ -4,14 +4,12 @@
 import codecs
 import os
 import re
-import sys
 
 from setuptools import setup, find_packages
-from setuptools.command.test import test as TestCommand
 
 
 NAME = "python_packaging_demo"
-META_PATH = os.path.join("demo", "__init__.py")
+META_PATH = os.path.join("py_pkg_demo", "__init__.py")
 
 ###############################################################################
 
@@ -108,10 +106,10 @@ if __name__ == "__main__":
 
         include_package_data = True,
         # package_data={
-        #     'demo': ['data.dat'],
+        #     'py_pkg_demo': ['data.dat'],
         # },
 
-        # data_files=[('python_packaging_demo_data', ['data/data.txt'])],
+        data_files=[('py_pkg_demo_data', ['data/data.txt'])],
         entry_points={
             'console_scripts': [
                 'packaging_demo=demo:main',

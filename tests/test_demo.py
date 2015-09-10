@@ -1,6 +1,6 @@
 # coding=utf-8
 import unittest
-import demo
+import py_pkg_demo
 
 
 class TestDemo(unittest.TestCase):

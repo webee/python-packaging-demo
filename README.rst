@@ -59,3 +59,25 @@ build && upload
     $ python setup.py register -r pypi
     $ python setup.py sdist upload -r pypi
     $ python setup.py bdist_wheel upload -r pypi
+    or
+    $ twine upload dist/*
+
+
+How to packaging
+""""""""""""""""
+
+refer to: https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
+
+and https://python-packaging-user-guide.readthedocs.org/en/latest/distributing.html
+
+
+Docs
+""""
+sphinx: http://sphinx-doc.org/tutorial.html
+
+
+Add shields and progress bar
+""""""""""""""""""""""""""""
+http://shields.io/
+
+https://github.com/fehmicansaglam/progressed.io
